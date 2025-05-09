@@ -1,6 +1,6 @@
 Rush Tiles Terms and Conditions
 Last Updated: May 9, 2025
-Welcome to Rush Tiles ("the Game"), developed by [Your Company Name] ("we," "us," or "our"). By downloading, installing, or playing Rush Tiles, you agree to these Terms and Conditions ("Terms"). If you do not agree, please do not use the Game.
+Welcome to Rush Tiles ("the Game"), developed by Nikhil Varma Bandaru ("I", "we", "us," or "our"). By downloading, installing, or playing Rush Tiles, you agree to these Terms and Conditions ("Terms"). If you do not agree, please do not use the Game.
 1. Acceptance of Terms
 By using Rush Tiles, you confirm you are at least 13 years old (or the minimum age required in your jurisdiction to enter into a contract). If you are under 18, you must have parental consent to use the Game.
 2. License to Use
@@ -27,6 +27,6 @@ Rush Tiles is provided "as is" without warranties of any kind. We do not guarant
 8. Limitation of Liability
 To the fullest extent permitted by law, Rush Tiles is not liable for any indirect, incidental, or consequential damages arising from your use of Rush Tiles, including data loss or service interruptions.
 9. Governing Law
-These Terms are governed by the laws of New Jersey, USA without regard to conflict of law principles. Disputes will be resolved in courts located in New Jersey.
+These Terms are governed by the laws of New Jersey, USA, without regard to conflict of law principles. Disputes will be resolved in courts located in New Jersey.
 10. Contact Us
 For questions about these Terms, contact us at support@nivexa.net.
